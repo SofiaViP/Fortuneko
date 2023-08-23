@@ -1,7 +1,5 @@
 
-## Requirements
-
-In this section, you will find all kinds of requirements for our module: functional and non-functional.
+## Functional Requirements
 
 ### Domain Model
 

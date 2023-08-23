@@ -4,10 +4,9 @@ Welcome to the documentation pages of **Fortuneko** -> [Fortune + Maneki Neko]
 
 You can find here details about the product (or mini-app or module), from a high-level vision to low-level implementation decisions, a kind of Software Development Report, organized by discipline (as of Rational Unified Process): 
 
-* Business modeling 
+* [Business modeling](docs/ProductVision.md) 
   * [Product Vision](docs/ProductVision.md)
-  * [Elevator Pitch](docs/ElevatorPitch.md)
-* Requirements
+* [Functional Requirements](docs/Requirements.md)
   * [Domain Model](docs/Requirements.md/#Domain-Model)
 * [Architecture and Design](docs/ArchitectureAndDesign.md)
   * [Logical architecture](docs/ArchitectureAndDesign.md#Logical-Architecture)
@@ -15,14 +14,13 @@ You can find here details about the product (or mini-app or module), from a high
   * [Vertical prototype](docs/ArchitectureAndDesign.md#Vertical-Prototype)
 * [Project management](docs/ProjectManagement.md)
 
-So far, contributions are exclusively made by the initial team, but we hope to open them to the community, in all areas and topics: requirements, technologies, development, experimentation, testing, etc.
+This project was developed whithin the scope of [ESOF](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501679). Hence why there is no Project opened in this repository. If you wish to check the projects's development process more in depth, feel free to check out [this](https://github.com/FEUP-LEIC-ES-2022-23/2LEIC16T5) repository.
 
 If you're looking for help, please contact our team:
 
-* Athos Freitas - 202108792
-* Haochang Fu - 202108730
-* João Figueiredo - 202108873
-* Pedro Barbeira - 201303693
-* Sofia Pinto - 202108682
+* [Athos Freitas](https://github.com/athoscf)
+* [Haochang Fu](https://github.com/unrealxinfinity)
+* [João Figueiredo](https://github.com/Oao26)
+* [Sofia Pinto](https://github.com/SofiaViP)
 
 Thank you!
